@@ -1,0 +1,223 @@
+<dfusion version="3.26.25708">
+    <configurations>
+        <configuration name="@Home|All Platforms" encryption="none" />
+        <configuration name="@Home|windows" encryption="none" />
+        <configuration name="mobile|All Platforms" encryption="none" />
+        <configuration name="mobile|android" active="true" encryption="none" />
+    </configurations>
+    <settings>
+        <application applicationid="mobile|android:com.megamobile.smfb" title="SMFB" icon="" />
+        <rendering fullscreen="true" vsync="true" antialiasing="0" width="320" height="240" renderer="Platform Default" fullscreenrefreshrate="15" />
+    </settings>
+    <resources>
+        <files>
+            <file relativePath=".\DemoRobot\Box02.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\Bras_ArD.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\Bras_ArG.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\Bras_AvG.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\Corps.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\DemoRobot.material">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\DemoRobot.scene">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\RoueAvG.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\Roue_ArD.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\Roue_ArG.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\Roue_AvD.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\T__te.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\antenne.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\bras_AvD.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\oeil.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\robot.png">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\shadow01.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\shadow01.png">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\shadow02.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\xyz.material">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\DemoRobot\xyz.mesh">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\SMFB.dpd">
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\cameracalibration.xml">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\cameracalibration_android.xml">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\robot_manager.lua">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\tracking.lua">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\tracking\object_1_keyframe_0.jpg">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\tracking\tracker.xml">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\videocapture.xml">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+            <file relativePath=".\videocapture_android.xml">
+                <configuration name="@Home|All Platforms" excludeFromBuild="true" />
+                <configuration name="@Home|windows" excludeFromBuild="true" />
+                <configuration name="mobile|All Platforms" excludeFromBuild="true" />
+            </file>
+        </files>
+    </resources>
+    <userfilefilters>
+        <file relativePath="cameracalibration.xml" />
+        <file relativePath="cameracalibration_android.xml" />
+        <file relativePath="DemoRobot/antenne.mesh" />
+        <file relativePath="DemoRobot/Box02.mesh" />
+        <file relativePath="DemoRobot/Bras_ArD.mesh" />
+        <file relativePath="DemoRobot/Bras_ArG.mesh" />
+        <file relativePath="DemoRobot/bras_AvD.mesh" />
+        <file relativePath="DemoRobot/Bras_AvG.mesh" />
+        <file relativePath="DemoRobot/Corps.mesh" />
+        <file relativePath="DemoRobot/DemoRobot.material" />
+        <file relativePath="DemoRobot/DemoRobot.scene" />
+        <file relativePath="DemoRobot/oeil.mesh" />
+        <file relativePath="DemoRobot/robot.png" />
+        <file relativePath="DemoRobot/Roue_ArD.mesh" />
+        <file relativePath="DemoRobot/Roue_ArG.mesh" />
+        <file relativePath="DemoRobot/Roue_AvD.mesh" />
+        <file relativePath="DemoRobot/RoueAvG.mesh" />
+        <file relativePath="DemoRobot/shadow01.mesh" />
+        <file relativePath="DemoRobot/shadow01.png" />
+        <file relativePath="DemoRobot/shadow02.mesh" />
+        <file relativePath="DemoRobot/T__te.mesh" />
+        <file relativePath="DemoRobot/xyz.material" />
+        <file relativePath="DemoRobot/xyz.mesh" />
+        <file relativePath="robot_manager.lua" />
+        <file relativePath="SMFB.dfs" />
+        <file relativePath="SMFB.dpd" />
+        <file relativePath="tracking/object_1_keyframe_0.jpg" />
+        <file relativePath="tracking/tracker.xml" />
+        <file relativePath="tracking.lua" />
+        <file relativePath="videocapture.xml" />
+        <file relativePath="videocapture.xml.bak" />
+        <file relativePath="videocapture_android.xml" />
+        <file relativePath="videocapture_android.xml.bak" />
+    </userfilefilters>
+    <scene name="scene_0" position="{0.000000, 0.000000, 0.000000}" orientation="{1.000000, 0.000000, 0.000000, 0.000000}" visible="true" rendergroup="50" scale="{1.000000, 1.000000, 1.000000}" visibilitymask="-1" ambient="{0.200000, 0.200000, 0.200000}" shadowtechnique="none">
+        <timeline name="timeline" />
+        <platform target="windows">
+            <camera name="camera" file="cameracalibration.xml" position="{0.000000, 0.000000, 0.000000}" orientation="{1.000000, 0.000000, 0.000000, 0.000000}" visible="true" rendergroup="50" scale="{1.000000, 1.000000, 1.000000}" visibilitymask="-1" fovy="0.785398" nearclip="0.010000" farclip="10000.000000" aspectratio="1.333333" />
+        </platform>
+        <platform target="android">
+            <camera name="camera" file="cameracalibration_android.xml" position="{0.000000, 0.000000, 0.000000}" orientation="{1.000000, 0.000000, 0.000000, 0.000000}" visible="true" rendergroup="50" scale="{1.000000, 1.000000, 1.000000}" visibilitymask="-1" fovy="0.785398" nearclip="0.010000" farclip="10000.000000" aspectratio="1.333333" />
+        </platform>
+        <videotexture name="videotexture_live" videocapture="videocapture_live" />
+        <viewport name="viewport" dimensions="{0.000000, 0.000000, 1.000000, 1.000000}" background="videotexture_live" visibilitymask="-1" bgvideorect="{0.000000, 0.000000, 1.000000, 1.000000}" backgroundcolor="{0.000000, 0.000000, 0.000000, 1.000000}" camera="camera" scheme="Default" />
+        <platform target="windows">
+            <videocapture name="videocapture_live" file="videocapture.xml" master="true" loop="false" speed="1.000000" autoplay="true" selectdialog="true" compactdialog="true" save="false" />
+        </platform>
+        <platform target="android">
+            <videocapture name="videocapture_live" file="videocapture_android.xml" master="true" loop="false" speed="1.000000" autoplay="true" selectdialog="true" compactdialog="true" save="false" />
+        </platform>
+        <light name="light1" position="{0.000000, 0.000000, 0.000000}" orientation="{1.000000, 0.000000, 0.000000, 0.000000}" visible="true" rendergroup="50" scale="{1.000000, 1.000000, 1.000000}" visibilitymask="-1" type="point" enabled="true" diffuse="{1.000000, 1.000000, 1.000000}" specular="{0.000000, 0.000000, 0.000000}" powerscale="1.000000" attenuation="{100000.000000, 1.000000, 0.000000, 0.000000}" castshadows="false" shadowcamerasetup="default" />
+        <luascript name="tracking" file="tracking.lua" enabled="true" framerate="0.000000" priority="0" trigger="true" pause="false" />
+        <object3d name="Tracking_Object" position="{0.000000, 0.000000, 0.000000}" orientation="{1.000000, 0.000000, 0.000000, 0.000000}" visible="true" rendergroup="50" scale="{4.000000, 4.000000, 4.000000}" visibilitymask="-1">
+            <scenette name="DemoRobot" file="DemoRobot\DemoRobot.scene" position="{0.000000, 0.000000, -3.000000}" orientation="{0.707107, 0.707107, 0.000000, 0.000000}" visible="true" rendergroup="50" scale="{3.000000, 3.000000, 3.000000}" visibilitymask="-1">
+                <luascript name="robot_manager" file="robot_manager.lua" enabled="true" framerate="0.000000" priority="0" trigger="true" pause="false" />
+            </scenette>
+        </object3d>
+    </scene>
+</dfusion>
